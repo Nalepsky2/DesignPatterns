@@ -9,7 +9,7 @@ public class Main {
                 -minimum 1 mała litera
                 -minimum 1 znak specjalny
                 -brak spacji
-        1pkt - wyswietl komunikat zawierajacy informację o wszystkich błędach w podanym haśle.
+        1pkt - zwróć (nie wyświetl) komunikat zawierajacy informację o wszystkich błędach w podanym haśle.
     */
 
     public static void main(String[] args) {
